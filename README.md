@@ -5,6 +5,8 @@ Drop Down Radio Dialog Box is a Flutter package that provides a customizable ale
 
 ![Drop Down Radio Dialog Box Preview](https://github.com/itsSaiful/drop-down-radio-dialog-box/blob/main/drop_down.gif)
 
+![Alt Text](image.png)
+
 ## Features
 
 * Display a list of selectable items inside an alert dialog.
@@ -19,7 +21,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  drop_down_radio_dialog_box: ^1.0.0
+  drop_down_radio_dialog_box: ^0.0.3
 ```
 
 Then, run:
