@@ -2,6 +2,9 @@
 
 Drop Down Radio Dialog Box is a Flutter package that provides a customizable alert box with a list of radio buttons for selecting a value. This package is useful for scenarios where you need to prompt users to choose an option from a list within a dialog box.
 
+
+![Drop Down Radio Dialog Box Preview](https://github.com/itsSaiful/drop-down-radio-dialog-box/blob/main/drop_down.gif)
+
 ## Features
 
 * Display a list of selectable items inside an alert dialog.
