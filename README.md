@@ -5,7 +5,8 @@ Drop Down Radio Dialog Box is a Flutter package that provides a customizable ale
 
 ![Drop Down Radio Dialog Box Preview](https://github.com/itsSaiful/drop-down-radio-dialog-box/blob/main/drop_down.gif)
 
-![Alt Text](image.png)
+![Alt Text](image-1.png)
+
 
 ## Features
 
