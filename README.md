@@ -22,7 +22,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  drop_down_radio_dialog_box: ^0.0.3
+  drop_down_radio_dialog_box: ^1.0.0
 ```
 
 Then, run:
